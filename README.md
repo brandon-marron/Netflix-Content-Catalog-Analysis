@@ -542,5 +542,5 @@ Dataset Source: [View Dataset](https://www.kaggle.com/datasets/debayank2024/netf
 
 GitHub Repository: [View Repository](https://github.com/brandon-marron/Netflix-Content-Analysis)
 
-LinkedIn: [LinkedIn Profile](linkedin.com/in/brandonmarron)
+LinkedIn: [LinkedIn Profile](https://linkedin.com/in/brandonmarron)
 

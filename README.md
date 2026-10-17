@@ -475,7 +475,7 @@ Explaining Netflix’s business strategy would require additional information an
 netflix-content-analysis/
 │
 ├── data/
-    └── netflix_titles.csv
+|   └── netflix_titles.csv
 │
 ├── images/
 │   └── netflix_dashboard.png

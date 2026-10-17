@@ -474,28 +474,28 @@ Explaining Netflix’s business strategy would require additional information an
 ```text
 netflix-content-analysis/
 │
-├── README.md
-│
 ├── data/
-│   └── netflix_titles.csv
+    └── netflix_titles.csv
+│
+├── images/
+│   └── netflix_dashboard.png
 │
 ├── python/
 │   └── netflix_cleaning.ipynb
 │
 ├── sql/
+│   ├── analysis.sql
 │   ├── database_setup.sql
-│   ├── validation.sql
-│   └── analysis.sql
+│   └── validation.sql
 │
 ├── tableau_data/
 │   ├── netflix_1a_yearly_growth.csv
 │   ├── netflix_2b_movie_tv_pct.csv
 │   ├── netflix_3b_rating_growth.csv
-│   ├── netflix_4c_top5_genre.csv
+│   ├── netflix_4c_top5_genres.csv
 │   └── netflix_5c_top5_country.csv
 │
-└── images/
-    └── netflix_dashboard.png
+└── README.md
 ```
 ---
 

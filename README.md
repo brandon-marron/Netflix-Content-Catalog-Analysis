@@ -6,7 +6,7 @@ This project analyzes approximately 8,800 Netflix titles to understand how recor
 
 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/brandon.marron8358/viz/NetflixProject_17919232967500/Dashboard1)
 
-![Netflix Content Additions Dashboard](<img width="1303" height="1046" alt="image" src="https://github.com/user-attachments/assets/cea0a414-f397-4f17-a71f-4246f7b97112" />)
+![Netflix Content Additions Dashboard](https://github.com/brandon-marron/Netflix-Project/blob/main/images/netflix_dashboard.png)
 
 
 ---
@@ -333,7 +333,7 @@ After completing the SQL analysis, we exported five analysis-ready datasets from
 
 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/brandon.marron8358/viz/NetflixProject_17919232967500/Dashboard1)
 
-![Netflix Content Additions Dashboard](<img width="1303" height="1046" alt="image" src="https://github.com/user-attachments/assets/cea0a414-f397-4f17-a71f-4246f7b97112" />)
+![Netflix Content Additions Dashboard](https://github.com/brandon-marron/Netflix-Project/blob/main/images/netflix_dashboard.png)
 
 The final dashboard contains five main visualizations:
 

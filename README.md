@@ -540,7 +540,7 @@ Tableau Dashboard: [View Dashboard](https://public.tableau.com/app/profile/brand
 
 Dataset Source: [View Dataset](https://www.kaggle.com/datasets/debayank2024/netflix-movies-and-series)
 
-GitHub Repository: [View Repository]()
+GitHub Repository: [View Repository](https://github.com/brandon-marron/Netflix-Content-Analysis)
 
 LinkedIn: [LinkedIn Profile](linkedin.com/in/brandonmarron)
 
